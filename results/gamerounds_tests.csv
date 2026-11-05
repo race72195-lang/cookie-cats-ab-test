@@ -1,0 +1,2 @@
+metric,median_control,median_treatment,mean_control_capped,mean_treatment_capped,p_value_mann_whitney,p_value_welch_capped
+sum_gamerounds,17.0,16.0,51.03091,50.93526,0.05021,0.88337
