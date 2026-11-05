@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.vscode/
+
+# Data is downloaded from Kaggle
+data/

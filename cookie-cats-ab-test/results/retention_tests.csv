@@ -1,0 +1,3 @@
+metric,rate_control,rate_treatment,diff_pp,ci_low_pp,ci_high_pp,relative_change_pct,z,p_value,p_value_chi2_check,n_control,n_treatment,alpha,role,significant
+retention_1,0.44819,0.44228,-0.59052,-1.23926,0.05822,-1.31757,-1.78409,0.07441,0.07441,44700,45489,0.025,secondary,False
+retention_7,0.1902,0.182,-0.82013,-1.32816,-0.3121,-4.3119,-3.16436,0.00155,0.00155,44700,45489,0.05,primary,True
