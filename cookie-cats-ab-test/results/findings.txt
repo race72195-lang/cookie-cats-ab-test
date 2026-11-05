@@ -1,9 +1,0 @@
-- 90,189 players: 44,700 in gate_30 and 45,489 in gate_40.
-- Group sizes differ more than expected for a 50/50 split (sample ratio check p = 0.009).
-- 4.4% of players installed the game but played zero rounds; the maximum is 49,854 rounds (extreme values were capped for the mean comparison).
-- 7-day retention (primary): 19.02% in gate_30 vs 18.20% in gate_40, difference -0.82 pp (95% CI -1.33 to -0.31), p = 0.002: statistically significant (lower with gate_40).
-- 1-day retention (secondary): 44.82% vs 44.23%, difference -0.59 pp, p = 0.074: no statistically significant difference.
-- Game rounds (secondary): median 17 vs 16, Mann-Whitney p = 0.050.
-- Bootstrap 95% interval for the 7-day retention difference: -1.34 to -0.31 pp.
-- With about 44,700 players per group the test can reliably detect a change of 0.74 pp or more in 7-day retention; detecting 1 pp would need about 24,178 players per group.
-- Recommendation: keep the gate at level 30, because gate_40 lowers 7-day retention.
